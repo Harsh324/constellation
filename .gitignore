@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# Windows
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Environment
+.env
+.env.*
+
+!.env.example
+
+# Python
+__pycache__/
+
+# Logs
+*.log
